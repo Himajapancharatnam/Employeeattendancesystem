@@ -461,3 +461,13 @@ For support, please open an issue in the repository or contact the development t
 - Shift management
 - Overtime calculation
 - Integration with payroll systems
+## Project Deployment
+🌐 Frontend (React + Netlify)
+
+🔗 Live URL:
+https://692c1799edccf11258c53fef--playful-sunshine-802aaf.netlify.app
+
+🔗 Backend (Node.js + Express + MongoDB + Render)
+
+🔗 API Base URL:
+https://attendance-backend-40xx.onrender.com
